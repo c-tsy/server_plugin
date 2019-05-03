@@ -1,0 +1,14 @@
+{
+  "name": "@ctsy/server_plugin",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts",
+    "README.md"
+  ],
+  "repository": "https://github.com/c-tsy/server_plugin",
+  "author": "CastleMY <490523604@qq.com>",
+  "license": "MIT"
+}
